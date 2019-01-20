@@ -2,7 +2,7 @@
 
 配方： ℞ **wugniu**
 
-[Rime](http://rime.im) 吳語輸入方案
+[Rime](https://rime.im) 吳語輸入方案
 
 上海言話，拼寫方案採用[《吳語拉丁式注音法》](http://input.foruto.com/wu/method.html)
 
